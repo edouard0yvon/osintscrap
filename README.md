@@ -1,0 +1,2 @@
+# osintscrap
+exercice OSINT scrap 
